@@ -1,0 +1,4 @@
+﻿  prac6_task2.cpp
+C:\Users\я\source\C++ repos\prac6_task2\prac6_task2\prac6_task2.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\я\source\C++ repos\prac6_task2\prac6_task2\prac6_task2.cpp(30,14): warning C4101: result: неиспользованная локальная переменная
+  prac6_task2.vcxproj -> C:\Users\я\source\C++ repos\prac6_task2\x64\Debug\prac6_task2.exe

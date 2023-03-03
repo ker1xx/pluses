@@ -39,6 +39,7 @@ void FindMinMax(vector <vector <int>> matrix,int n, int m, int &min, int &max)
             if (matrix[i][j] > max)
                 max = matrix[i][j];
         }
+
     }
 }
 void FindAverage(vector <vector <int>> matrix, int n, int m, float &avg)
