@@ -1,0 +1,3 @@
+﻿  prac4.cpp
+C:\Users\я\source\C++ repos\prac4\prac4\prac4.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  prac4.vcxproj -> C:\Users\я\source\C++ repos\prac4\x64\Debug\prac4.exe

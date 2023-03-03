@@ -1,0 +1,3 @@
+﻿  prac5.cpp
+C:\Users\я\source\C++ repos\prac5\prac5\prac5.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  prac5.vcxproj -> C:\Users\я\source\C++ repos\prac5\x64\Debug\prac5.exe
