@@ -1,0 +1,11 @@
+﻿  prac8.cpp
+C:\Users\klink\source\C++ repos\prac8\prac8\prac8.cpp(39,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\klink\source\C++ repos\prac8\prac8\prac8.cpp(70,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\klink\source\C++ repos\prac8\prac8\prac8.cpp(75,30): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\klink\source\C++ repos\prac8\prac8\prac8.cpp(76,19): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\klink\source\C++ repos\prac8\prac8\prac8.cpp(85,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  prac8.vcxproj -> C:\Users\klink\source\C++ repos\prac8\x64\Debug\prac8.exe
