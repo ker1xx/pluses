@@ -1,0 +1,4 @@
+﻿  pracfile.cpp
+C:\Users\я\source\C++ repos\pracfile\pracfile\pracfile.cpp(36,1): warning C4102: std: неиспользованная метка
+C:\Users\я\source\C++ repos\pracfile\pracfile\pracfile.cpp(50,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  pracfile.vcxproj -> C:\Users\я\source\C++ repos\pracfile\x64\Debug\pracfile.exe
