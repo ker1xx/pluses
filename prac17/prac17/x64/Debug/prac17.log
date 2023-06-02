@@ -1,0 +1,5 @@
+﻿  prac17.cpp
+C:\Users\я\source\C++ repos\prac17\prac17\prac17.cpp(82,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\я\source\C++ repos\prac17\prac17\prac17.cpp(102,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\я\source\C++ repos\prac17\prac17\prac17.cpp(104,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  prac17.vcxproj -> C:\Users\я\source\C++ repos\prac17\x64\Debug\prac17.exe

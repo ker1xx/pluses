@@ -1,0 +1,3 @@
+﻿  prac12.cpp
+C:\Users\я\source\C++ repos\prac12\prac12\prac12.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  prac12.vcxproj -> C:\Users\я\source\C++ repos\prac12\x64\Debug\prac12.exe
